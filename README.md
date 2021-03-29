@@ -3,7 +3,7 @@
 Repositorio de la clase Computational Geometry impartida por el profesora Rosaura Palma de la ESCOM
 
 ## Primer parcial
-Este parcial solo de las actividades desarrolladas en clase y un examen. Las actividades consisten en dibujar gráfos y figuras. En este parcial no se realizó ninguna práctica.
+Este parcial se evaluó con las actividades desarrolladas en clase y un examen. Las actividades consisten en dibujar gráfos y figuras. En este parcial no se realizó ninguna práctica.
 
 ## Segundo parcial
 En este parcial se desarrollaron actividades de clase, un examen y dos practicas:
