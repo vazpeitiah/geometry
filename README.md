@@ -14,4 +14,4 @@ En este parcial se desarrollaron actividades de clase, un examen y dos practicas
 |Práctica 2|Algoritmo de 3-coloración|
 
 ## Tercer parcial
-Lamentablemente no pude asistir al tercer parcial, sin embargo solo se hicieron presentaciones por cada alumno del grupo. La evaluación de este parcial solo consistió las actividades de cada presentación y de tu propia presentación.
+Lamentablemente no pude asistir al tercer parcial, sin embargo solo se hicieron presentaciones por cada alumno del grupo. La evaluación de este parcial solo consistió de las actividades de cada presentación y de tu propia presentación.
